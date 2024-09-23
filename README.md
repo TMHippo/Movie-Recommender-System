@@ -19,4 +19,11 @@ The dataset also contains files with 26 million ratings from 270,000 users for a
 ### Recommendation based on scaled weighted average and popularity score
 ![](images/3_1.png)
 ### Content Based Filtering
+![](images/3_2.png)
 ### Collaborative Filtering
+![](images/3_3.png)
+### Hybrid recommend system 
+### Base on content based filtering recommender systems and collaborative filtering recommender systems
+![](images/3_4.png)
+### Base on weighted hybrid technique for recommender system and content based reommendation system 
+![](images/3_5.png) 
